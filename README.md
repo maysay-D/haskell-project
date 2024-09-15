@@ -2,3 +2,5 @@
 
 # haskell-project
 Haskellをいじる用のレポジトリ
+
+ビルドは`cabal run`で行う
